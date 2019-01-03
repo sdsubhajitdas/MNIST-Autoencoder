@@ -1,6 +1,6 @@
 # Custom added.
 images/*/*.png
-saved_models/
+saved_models/*/*.h5
 logs/
 samples/
 
