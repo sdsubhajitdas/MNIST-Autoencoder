@@ -52,7 +52,7 @@ pylint==2.2.2
 pyparsing==2.3.0
 python-dateutil==2.7.5
 pywinpty==0.5.5
-PyYAML==3.13
+PyYAML==5.4
 pyzmq==17.1.2
 qtconsole==4.4.3
 scipy==1.2.0
